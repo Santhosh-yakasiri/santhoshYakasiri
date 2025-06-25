@@ -16,3 +16,7 @@
 1. Compile: `javac Problem-1.java`
 2. Run: `java Problem1`
 Repeat for each file.
+
+or
+
+run from IDE Like eclipse, vscode
